@@ -1,0 +1,47 @@
+#center{
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    position: fixed;
+    width: 98vw;
+}
+#content{
+    background-color: white;
+    padding: 15px;
+    border-radius: 5px;
+    width: auto;
+    
+
+}
+body{
+    background-color: rgb(245, 231, 214);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+    color: rgb(1, 48, 8);
+    border: dashed;
+    border-color: brown;
+}
+button{
+    padding: 5px;
+    background-color: rgb(231, 230, 229);
+    border-radius: 14.88px;
+    border: outset;
+    cursor: pointer;
+}
+#btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+}
+#niger{
+    color: rgb(0, 0, 0);
+    display: flex;
+    border: dashed;
+    margin: 10px;
+    width: auto;
+    height: auto;
+    border-color: rgb(250, 99, 99);
+    
+}
